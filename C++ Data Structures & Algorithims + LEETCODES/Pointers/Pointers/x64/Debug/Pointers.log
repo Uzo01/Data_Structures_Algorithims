@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\Emmanuel\Desktop\C++ Data Structures & Algorithims + LEETCODES\Pointers\Pointers\Main.cpp(14,6): error C2040: 'num2': 'int' differs in levels of indirection from 'int *'
